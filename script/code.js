@@ -67,3 +67,7 @@ maleproductsContent.forEach((content)=>{
   </div>
 </div>`
 })
+
+function Cart(){
+    
+}
