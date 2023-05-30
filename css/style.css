@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+background-color: black!important;}
+.column{
+    display: flex;
+    background-color: black;
+}
+.display-4{
+ margin-top: 40%;
+}
+button .btn{
+    border-radius: 18px solid white;
+    padding:5px 10px;
+}
+img[alt="Jackets"]{
+height: 300px;
+
+}
